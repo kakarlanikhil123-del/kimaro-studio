@@ -1,0 +1,25 @@
+[
+  {
+    "id": "KMR-78291",
+    "createdAt": "2026-11-08T14:22:00Z",
+    "customer": {
+      "name": "Alexander Grey",
+      "email": "a.grey@designcraft.co",
+      "city": "San Francisco, CA"
+    },
+    "product": {
+      "model": "Kimaro Studio Cube",
+      "finish": "Matte Obsidian",
+      "lens": "Leica 35mm F/1.8 ASPH",
+      "mount": "Magnetic Precision Monitor Arm",
+      "engraving": "GREY / 01"
+    },
+    "addons": [
+      "Studio Desk Heavy Arm",
+      "Anodized Privacy Cap"
+    ],
+    "total": 310,
+    "status": "Optical Alignment & QC",
+    "estimatedDelivery": "Nov 24, 2026"
+  }
+]

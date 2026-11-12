@@ -1,0 +1,46 @@
+[
+  {
+    "id": "rev-1794495889787",
+    "author": "David Chen",
+    "role": "Independent Filmmaker",
+    "rating": 5,
+    "title": "Game changer for virtual pitch decks",
+    "comment": "The natural depth of field and sharpness are unmatched.",
+    "date": "2026-11-12",
+    "verified": true,
+    "likes": 1
+  },
+  {
+    "id": "rev-1",
+    "author": "Elena Rostova",
+    "role": "Creative Director at Studio Null",
+    "rating": 5,
+    "title": "The Leica 35mm glass completely alters client calls",
+    "comment": "The depth of field and natural bokeh on the Kimaro makes every presentation look like a high-budget commercial film. Zero distortion, natural skin tones.",
+    "date": "2026-10-12",
+    "verified": true,
+    "likes": 42
+  },
+  {
+    "id": "rev-2",
+    "author": "Marcus Vance",
+    "role": "Keynote Speaker & Tech Architect",
+    "rating": 5,
+    "title": "Dual-pixel autofocus follows eyes without breathing",
+    "comment": "Most 4K webcams hunt for focus whenever you lean back. Kimaro locks on instantaneously with zero lens pulsing. The aluminum chassis is cold, dense, and indestructible.",
+    "date": "2026-10-28",
+    "verified": true,
+    "likes": 38
+  },
+  {
+    "id": "rev-3",
+    "author": "Dr. Sarah Lin",
+    "role": "Neuroscience Researcher & Lecturer",
+    "rating": 5,
+    "title": "Isolation microphone rejected construction noise completely",
+    "comment": "I deliver remote symposium lectures while roadwork was happening 20 meters outside my window. The beamforming array filtered all low-frequency rumble.",
+    "date": "2026-11-04",
+    "verified": true,
+    "likes": 29
+  }
+]
